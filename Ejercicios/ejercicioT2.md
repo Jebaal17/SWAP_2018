@@ -7,6 +7,7 @@
 **Laravel** es un framework de código abierto. Se usa para desarrollar aplicaciones y servicios web con PHP 5 y 7. Su filosofía es desarrollar código PHP de forma elegante y simple. Fue desarrollado en 2011 por Taylor Otwell.
 
 Entre algunas de las características de este framework se encuentran:
+
     -Sistema de ruteo, también RESTful3​
     -Blade, Motor de plantillas4​5​
     -Peticiones Fluent6​
