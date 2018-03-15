@@ -5,8 +5,8 @@ Prácticas y trabajos correspondientes a la asignatura SWAP.
 
  ## Prácticas
 
-* [Práctica 1](https://github.com/Jebaal17/SWAP_2018/blob/master/Practicas/P1.md)
-* [Práctica 2](https://github.com/Jebaal17/SWAP_2018/blob/master/Practicas/P2.md)
+* [Práctica 1 (finalizada)](https://github.com/Jebaal17/SWAP_2018/blob/master/Practicas/P1.md)
+* [Práctica 2 (finalizada)](https://github.com/Jebaal17/SWAP_2018/blob/master/Practicas/P2.md)
 
 ## Ejercicios
 
