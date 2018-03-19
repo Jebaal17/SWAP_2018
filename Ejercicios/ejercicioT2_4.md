@@ -26,7 +26,7 @@ Estos balanceadores de carga virtual de KEMP brindan las mismas características
 
 ## **Bibliografía** 
 
-https://www.ovh.es/servidores_dedicados/storage/
-https://kemptechnologies.com/es/
-https://azure.microsoft.com/es-es/pricing/details/app-service/
-https://www.tp-link.com/es/products/details/cat-4910_TL-R480T+.html
+* https://www.ovh.es/servidores_dedicados/storage/
+* https://kemptechnologies.com/es/
+* https://azure.microsoft.com/es-es/pricing/details/app-service/
+* https://www.tp-link.com/es/products/details/cat-4910_TL-R480T+.html
