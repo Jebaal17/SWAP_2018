@@ -24,7 +24,8 @@ Estos balanceadores de carga virtual de KEMP brindan las mismas características
 
 * **Servidor dedicado FS-MAX** : Servidor tipo Storagede ovh. Permite conseguir el máximo espacio para almacenar y realizar copias de seguridad de sus datos. 
 
-* **Bibliografía** 
+## **Bibliografía** 
+
 https://www.ovh.es/servidores_dedicados/storage/
 https://kemptechnologies.com/es/
 https://azure.microsoft.com/es-es/pricing/details/app-service/
