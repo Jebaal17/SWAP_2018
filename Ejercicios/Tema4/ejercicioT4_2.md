@@ -10,7 +10,7 @@
 
 * **CARACTERÍSTICAS**
 
-![caracteristicas-tlr480]()
+![caracteristicas-tlr480](https://github.com/Jebaal17/SWAP_2018/blob/master/Ejercicios/img/480.png)
 
 
 **2- Router de banda ancha con balanceo de carga TL-R470T+**
@@ -19,5 +19,5 @@
 
 * **CARACTERISTICAS**
 
-![caracteristicas-tlr470]()
+![caracteristicas-tlr470](https://github.com/Jebaal17/SWAP_2018/blob/master/Ejercicios/img/470.png)
 
