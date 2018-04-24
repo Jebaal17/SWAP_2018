@@ -6,9 +6,9 @@ Después de visitar los enlaces, se pueden obtener como conclusión 2 tipos de f
 
 * nginx:
 
-![configuracion]()
+![configuracion](https://github.com/Jebaal17/SWAP_2018/blob/master/Ejercicios/img/conf-nginx.png)
 
-![test]()
+![test](https://github.com/Jebaal17/SWAP_2018/blob/master/Ejercicios/img/test-nginx.png)
 
 
 Fórmula matemática: 
