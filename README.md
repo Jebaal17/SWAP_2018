@@ -13,3 +13,8 @@ Prácticas y trabajos correspondientes a la asignatura SWAP.
 ## Ejercicios
 
 * [Ejercicios teoría](https://github.com/Jebaal17/SWAP_2018/tree/master/Ejercicios)
+
+## Trabajo
+
+* [PDF](https://github.com/Jebaal17/SWAP_2018/blob/master/Trabajo/Trabajo%20SWAP.pdf)
+* [Presentación]()
